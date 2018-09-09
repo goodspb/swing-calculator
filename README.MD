@@ -1,6 +1,8 @@
 ### 简易计算器 (Simple calculator gui)
 
-write by Java Swing + IDEA
+Written by Java Swing + IDEA
+
+使用Java Swing 和 JB IDEA 写成
 
 #### 原因
 
